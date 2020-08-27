@@ -3,9 +3,5 @@
 - ♀️ Feminist
 - 🧙 Software Developer
 - ☕ Coffee
-- 🌐 Web
-- 🎲 Data Science
-- 🎮 Games
 - ☢️ History
-- 🎶 Music
 - 🏴🏳️‍🌈 Activism
