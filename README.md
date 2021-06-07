@@ -1,5 +1,5 @@
 
 - 🤰 Mother
 - ♀️ Feminist
-- 🧙 Software Developer
-- ☕ Coffee
+- 🧙 Software Engineer
+- ☕ Coffee and Tea
