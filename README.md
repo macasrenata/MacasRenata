@@ -21,10 +21,6 @@ I love computer science and history as well as coffee and teas! ☕
 
 I contribute to social projects: EducaTRansforma, Django Girls, Rails Girls, Mais 1 Code and here on GIthub in Open Source projects.
 
-I love solving problems using codes, dialogs and a wonderful interface where the product can be scalable, get the best performance and an excellent user experience.
-
-Interdisciplinarity is a path of no return!
-
 That's about it.
 
 Welcome!
@@ -34,7 +30,9 @@ Welcome!
 </p>
 
 
-
+.
+.
+.
 
 ## Technologies & Tools 💻 
 
@@ -58,7 +56,9 @@ Welcome!
 
 </p>
 
-
+.
+.
+.
 
 
 
@@ -70,6 +70,9 @@ Welcome!
 
 
 
+.
+.
+.
 
 
 ## 🤖 Subscribe to my channels about career, codes and solutions 
