@@ -30,9 +30,10 @@ Welcome!
 </p>
 
 
-.
-.
-.
+* 
+*
+*
+
 
 ## Technologies & Tools 💻 
 
@@ -56,9 +57,9 @@ Welcome!
 
 </p>
 
-.
-.
-.
+*
+*
+*
 
 
 
@@ -70,9 +71,9 @@ Welcome!
 
 
 
-.
-.
-.
+*
+*
+*
 
 
 ## 🤖 Subscribe to my channels about career, codes and solutions 
