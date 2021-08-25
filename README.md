@@ -19,7 +19,7 @@ I'm Renata Maçãs, mother 🤰 and feminist ♀️ , and I also work as a Softw
 
 I love computer science and history as well as coffee and teas! ☕ 
 
-I contribute to social projects such as: EducaTRansforma, Django Girls, Rails Girls, Mais 1 Code and here on GIthub in Open Source projects.
+I contribute to social projects: EducaTRansforma, Django Girls, Rails Girls, Mais 1 Code and here on GIthub in Open Source projects.
 
 I love solving problems using codes, dialogs and a wonderful interface where the product can be scalable, get the best performance and an excellent user experience.
 
@@ -50,12 +50,13 @@ Welcome!
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/aws-%23F7DF1E.svg?&style=for-the-badge&logo=aws&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/python-0089D6?logo=python&logoColor=white&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/django%20-%23007ACC.svg?&style=for-the-badge&logo=django&logoColor=white" height="25"/>
 
 </p>
 
-## GitHub Stats ⭐ 
+## ⭐ GitHub Stats 
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=macasrenata&show_icons=true&theme=tokyonight&line_height=27">
@@ -63,14 +64,14 @@ Welcome!
 </p>
 
 
-## Follow me social media 👾 
+## 👾 Follow me social media 
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/macasrenata)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macasrenata/)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/macasrenata)
 
 
-## Career and Code 🤖 
+## 🤖 Subscribe to my channels about career, codes and solutions 
 
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDaRous1AwTDSDGfN78cVbA)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/macasrenata)
