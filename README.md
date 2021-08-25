@@ -34,7 +34,7 @@ Welcome!
 </p>
 
 
-## 💻 Technologies & Tools
+## Technologies & Tools 💻 
 
 <p align="center">
 
@@ -55,7 +55,7 @@ Welcome!
 
 </p>
 
-## ⭐ GitHub Stats
+## GitHub Stats ⭐ 
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=macasrenata&show_icons=true&theme=tokyonight&line_height=27">
@@ -63,14 +63,14 @@ Welcome!
 </p>
 
 
-## 🎯 Follow me social media
+## Follow me social media 👾 
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/macasrenata)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macasrenata/)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/macasrenata)
 
 
-## 🔴 Career and Code! So follow me also on...
+## Career and Code 🤖 
 
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDaRous1AwTDSDGfN78cVbA)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/macasrenata)
