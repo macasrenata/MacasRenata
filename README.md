@@ -15,11 +15,11 @@
 
 <p align="center">
 
-I'm Renata Maçãs, mother 🤰 and feminist ♀️ , and I also work as a Software Engineer 🧙.
+I'm Renata Maçãs, and I work as a Software Engineer 🧙.
 
-I love computer science and history as well as coffee and teas! ☕ 
+I love computer science, history, art, smoke, coffee and tea! ☕ 
 
-I contribute to social projects: EducaTRansforma, Django Girls, Rails Girls, Mais 1 Code and here on GIthub in Open Source projects.
+I contribute to social projects: EducaTRansforma, Django Girls, Rails Girls, Mais 1 Code and Open Source too.
 
 That's about it.
 
