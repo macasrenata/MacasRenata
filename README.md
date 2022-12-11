@@ -40,7 +40,7 @@ I contribute to social projects: EducaTRansforma, Django Girls, Rails Girls, Mai
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="25"/>
-<img src="https://img.shields.io/badge/aws-%23F7DF1E.svg?&style=for-the-badge&logo=aws&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/python-0089D6?logo=python&logoColor=white&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/django%20-%23007ACC.svg?&style=for-the-badge&logo=django&logoColor=white" height="25"/>
 
