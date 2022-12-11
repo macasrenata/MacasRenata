@@ -3,8 +3,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/macasrenata?style=social)
 
 <p align='center'>
-<a href="https://dev.to/macasrenata"><img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>&nbsp;&nbsp;
-</br>
 <a href='https://www.buymeacoffee.com/macasrenata' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg' border='0' alt='Buy Me a Coffee' /></a>
 </p>
 
@@ -58,6 +56,8 @@ I contribute to social projects: EducaTRansforma, Django Girls, Rails Girls, Mai
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/macasrenata)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macasrenata/)
+<a href="https://dev.to/macasrenata"><img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>&nbsp;&nbsp;
+</br>
 
 
 
