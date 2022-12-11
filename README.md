@@ -3,9 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/macasrenata?style=social)
 
 <p align='center'>
-<a href="https://dev.to/macasrenata"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/macasrenata"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/macasrenata/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://dev.to/macasrenata"><img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>&nbsp;&nbsp;
 </br>
 <a href='https://www.buymeacoffee.com/macasrenata' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg' border='0' alt='Buy Me a Coffee' /></a>
 </p>
@@ -21,7 +19,6 @@ I love computer science, history, art, smoke, coffee and tea! ☕
 
 I contribute to social projects: EducaTRansforma, Django Girls, Rails Girls, Mais 1 Code and Open Source too.
 
-Welcome!
 
 <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/3dkZSFc0Yn24DebLb3/giphy-downsized.gif?cid=790b7611bd9a6c1ff5fbbf39254401dc2fbaec30a49f382b&rid=giphy-downsized.gif&ct=g" />
 
