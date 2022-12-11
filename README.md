@@ -13,7 +13,7 @@
 
 I'm Renata Maçãs, and I work as a Software Engineer 🧙.
 
-I love computer science, history, art, smoke, coffee and tea! ☕ 
+I love computer science, history, art and coffee! ☕ 
 
 </p>
 
