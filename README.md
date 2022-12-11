@@ -21,8 +21,6 @@ I love computer science, history, art, smoke, coffee and tea! ☕
 
 I contribute to social projects: EducaTRansforma, Django Girls, Rails Girls, Mais 1 Code and Open Source too.
 
-That's about it.
-
 Welcome!
 
 <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/3dkZSFc0Yn24DebLb3/giphy-downsized.gif?cid=790b7611bd9a6c1ff5fbbf39254401dc2fbaec30a49f382b&rid=giphy-downsized.gif&ct=g" />
@@ -42,13 +40,9 @@ Welcome!
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" height="25"/>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/aws-%23F7DF1E.svg?&style=for-the-badge&logo=aws&logoColor=black" height="25"/>
@@ -67,7 +61,6 @@ Welcome!
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/macasrenata)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macasrenata/)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/macasrenata)
 
 
 
