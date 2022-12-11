@@ -15,11 +15,6 @@ I'm Renata Maçãs, and I work as a Software Engineer 🧙.
 
 I love computer science, history, art, smoke, coffee and tea! ☕ 
 
-I contribute to social projects: EducaTRansforma, Django Girls, Rails Girls, Mais 1 Code and Open Source too.
-
-
-<img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/3dkZSFc0Yn24DebLb3/giphy-downsized.gif?cid=790b7611bd9a6c1ff5fbbf39254401dc2fbaec30a49f382b&rid=giphy-downsized.gif&ct=g" />
-
 </p>
 
 
