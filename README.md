@@ -77,7 +77,7 @@ I contribute to social projects: EducaTRansforma, Django Girls, Rails Girls, Mai
 *
 
 
-## 🤖 My channels 
+## 🤖 Channels 
 
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@macasrenata)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/macasrenata)
