@@ -23,7 +23,7 @@ I love computer science, history, art and coffee! ☕
 *
 
 
-## Technologies & Tools 💻 
+## 💻  Technologies & Tools 
 
 <p align="center">
 
