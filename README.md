@@ -11,9 +11,11 @@
 
 <p align="center">
 
-I'm Renata Maçãs, and I work as a Software Engineer 🧙.
+Hey there, I'm Renata Maçãs - Software Engineer 🧙.
 
-I love computer science, history, art and coffee! ☕ 
+Software Engineer, Mentor, Data Enthusiast, Coffee Lover, Art and History Enjoyer. 
+More about me: https://macasrenata.dev/about/ 
+ ☕ 
 
 </p>
 
