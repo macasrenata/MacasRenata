@@ -88,5 +88,9 @@ More about me: https://macasrenata.dev/about/
 
 ## 📊 Statistic
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacasRenata&langs_count=7&theme=radical" align="center" /></div>  
+<div >
+ <a href="https://github.com/MacasRenata">
+ <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacasRenata&layout=compact&langs_count=7&theme=dracula"/>
+ <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MacasRenata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>  
 
