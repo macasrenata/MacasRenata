@@ -21,7 +21,6 @@ More about me: https://macasrenata.dev/about/
 
 </p>
 
-
 * 
 *
 *
@@ -72,8 +71,6 @@ More about me: https://macasrenata.dev/about/
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/macasrenata)
 </br>
 
-
-
 *
 *
 *
@@ -84,4 +81,12 @@ More about me: https://macasrenata.dev/about/
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@macasrenata)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/macasrenata)
 
+
+
+</br>
+</br>
+
+## 📊 Statistic
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacasRenata&langs_count=7&theme=radical" align="center" /></div>  
 
