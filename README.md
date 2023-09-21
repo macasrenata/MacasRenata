@@ -6,7 +6,8 @@
 <a href='https://www.buymeacoffee.com/macasrenata' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg' border='0' alt='Buy Me a Coffee' /></a>
 </p>
 
-
+<div align="center">
+ 
 ## Hello World! 
 
 <p align="center">
@@ -21,10 +22,12 @@ More about me: https://macasrenata.dev/about/
 
 </p>
 
-* 
-*
-*
+</div>
+</br>
+</br>
 
+
+<div align="center">
 
 ## 💻  Technologies & Tools 
 
@@ -56,25 +59,25 @@ More about me: https://macasrenata.dev/about/
 <img src="https://img.shields.io/badge/django%20-%23007ACC.svg?&style=for-the-badge&logo=django&logoColor=white" height="25"/>
 
 </p>
+</div>
+</br>
+</br>
 
-*
-*
-*
-
-
+<div align="center">
 
 ## 👾 Social Media 
 
+ 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macasrenata/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/macasrenata)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/macas.dev/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/macasrenata)
+
+</div>
+</br>
 </br>
 
-*
-*
-*
-
+<div align="center">
 
 ## 🤖 Channels 
 
@@ -82,9 +85,11 @@ More about me: https://macasrenata.dev/about/
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/macasrenata)
 
 
+</div>
+</br>
+</br>
 
-</br>
-</br>
+<div align="center">
 
 ## 📊 Statistic
 
@@ -93,4 +98,7 @@ More about me: https://macasrenata.dev/about/
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacasRenata&layout=compact&langs_count=7&theme=dracula"/>
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MacasRenata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>  
+
+
+</div>
 
