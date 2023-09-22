@@ -12,7 +12,7 @@
 
 <p align="center">
 
-Hey there, I'm Renata Maçãs - Software Engineer 🧙.
+Hey there, I'm Renata Maçãs  🧙.
 
 Software Engineer, Mentor, Data Enthusiast, Coffee Lover, Art and History Enjoyer. 
 
