@@ -14,7 +14,7 @@
 
 Hey there, I'm Renata Maçãs  🧙.
 
-Software Engineer, Mentor, Data Enthusiast, Coffee Lover, Art and History Enjoyer. 
+Software Engineer, Coffee Lover, Art and History Enjoyer. 
 
 
 More about me: https://macasrenata.dev/about/ 
