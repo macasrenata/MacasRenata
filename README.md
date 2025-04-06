@@ -12,7 +12,7 @@
 
 <p align="center">
 
-Hey there, I'm Renata Maçãs.
+I'm Renata Maçãs.
 
 Software Engineer
  ☕ 
