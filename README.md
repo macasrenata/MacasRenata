@@ -1,6 +1,4 @@
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=macasrenata.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/macasrenata?style=social)
 
 <p align='center'>
 <a href='https://www.buymeacoffee.com/macasrenata' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg' border='0' alt='Buy Me a Coffee' /></a>
