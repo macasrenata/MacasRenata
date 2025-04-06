@@ -12,12 +12,9 @@
 
 <p align="center">
 
-Hey there, I'm Renata Maçãs  🧙.
+Hey there, I'm Renata Maçãs.
 
-Software Engineer, Coffee Lover, Art and History Enjoyer. 
-
-
-More about me: https://macasrenata.dev/about/ 
+Software Engineer
  ☕ 
 
 </p>
@@ -29,7 +26,7 @@ More about me: https://macasrenata.dev/about/
 
 <div align="center">
 
-## 💻  Technologies & Tools 
+## Technologies & Tools 
 
 <p align="center">
 
@@ -67,12 +64,10 @@ More about me: https://macasrenata.dev/about/
 
 <div align="center">
 
-## 👾 Social Media 
+## Social Media 
 
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macasrenata/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/macasrenata)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/macas.dev/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/macasrenata)
 
 </div>
@@ -81,10 +76,9 @@ More about me: https://macasrenata.dev/about/
 
 <div align="center">
 
-## 🤖 Channels 
+## Channels 
 
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@macasrenata)
-[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/macasrenata)
 
 
 </div>
@@ -92,14 +86,6 @@ More about me: https://macasrenata.dev/about/
 </br>
 
 <div align="center">
-
-## 📊 Statistic
-
-<div >
- <a href="https://github.com/MacasRenata">
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacasRenata&layout=compact&langs_count=7&theme=dracula"/>
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MacasRenata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>  
 
 
 </div>
